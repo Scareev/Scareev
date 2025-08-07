@@ -1,4 +1,4 @@
-<img width="156" height="222" alt="image" src="https://github.com/user-attachments/assets/d646393a-f822-4478-ba2d-dbf3bd4385e2" />## Boas Vindas!👋
+## Boas Vindas!👋
 
 ## Me chamo Heitor Galvão, como vai?
 
