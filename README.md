@@ -1,6 +1,4 @@
-# Boas Vindas!👋
-
-## Me chamo Heitor Galvão, como vai?
+# Me chamo Heitor Galvão, como vai?
 
 ### Habilidades Técnicas
 - 💻 Atualmente, um estudante da FATEC (ADS)
@@ -12,5 +10,4 @@
 - 🎞️ Faço animações em Flash (Nível Intermediário)
 - ✏️ Desenho há 6 anos (Digital / Pixel-Art)
 
-Acervo de conteúdos aleatórios que faço!
-<a href="https://www.youtube.com/@scareev">Aqui</a>
+Meu portifólio artístico se encontra no meu site pessoal anexado em meu perfil.
