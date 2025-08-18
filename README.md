@@ -7,6 +7,7 @@
 
 ### Habilidades Criativas
 - 🎵 Estudo música des de 2019 e sou compositor.
+- 🔊 Sound Designer e Produtor musical.
 - 🎞️ Faço animações em Flash (Nível Intermediário)
 - ✏️ Desenho há 6 anos (Digital / Pixel-Art)
 
