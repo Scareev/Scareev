@@ -1,7 +1,8 @@
 <div align="center">
 
 # Heitor Galvão
-### Desenvolvedor Web & Desktop · Estudante de ADS · Buscando Estágio em TI
+
+**Desenvolvedor Web & Desktop · Estudante de ADS · Buscando estágio em TI**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://scareev.neocities.org)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heitorjunk@gmail.com)
@@ -12,32 +13,53 @@
 
 <br>
 
-## 💼 Sobre mim
+## 👤 Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC São José dos Campos**, com experiência prática construindo aplicações **web** e **desktop** — do front-end ao back-end, do design de telas à lógica por trás delas.
+Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC São José dos Campos**, construindo aplicações que vão do front-end ao back-end — passando por desktop também. Gosto de entender a lógica por trás das telas, não só montá-las.
 
-Atualmente buscando uma **oportunidade de estágio** em desenvolvimento de software, web ou suporte técnico — presencial ou remoto.
+Atualmente em busca de um **estágio** em desenvolvimento de software, web ou suporte técnico — presencial ou remoto.
 
 <br>
 
 ## 🛠️ Stack
 
-**Linguagens**
+**🖥️ Aplicativos desktop**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=java,mysql" alt="Java, JavaFX, MySQL" />
 
-**Frameworks & Ferramentas**
+telas, lógica e persistência de dados em aplicações que rodam local *(JavaFX para a interface)*.
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+**🌐 Sites e páginas simples**
+
+<img src="https://skillicons.dev/icons?i=python,bootstrap" alt="Python, Bootstrap" />
+
+back-end leve e front-end rápido de montar.
+
+**⚛️ Aplicações web dinâmicas**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,ts" alt="React, Node, TypeScript" />
+
+interfaces reativas com estado, componentes e integração com API.
+
+**Também uso**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,flask,git,maven" alt="HTML, CSS, JavaScript, Flask, Git, Maven" />
+
+<br>
+
+## 🚀 Projetos
+
+| Projeto | Stack | Descrição |
+|---|---|---|
+| 🔀 **[FATEC-API-2025](https://github.com/LucaSuzuki/FATEC-API-2025)** | `Python` | Aplicação web de treinamento sobre metodologia ágil (Scrum), cobrindo processos e artefatos com exemplos práticos. Projeto em equipe na FATEC. |
+| 📦 **[RESMOD](https://github.com/Niikoto/RESMOD)** | `Java` `JavaFX` `MySQL` | Ferramenta de Gestão de Compras: controle de fornecedores, cotações, estoque, aprovações e dashboards. Projeto em equipe na FATEC. |
+
+
+<br>
+
+## 🎓 Formação
+
+- 🎓 **Análise e Desenvolvimento de Sistemas** — FATEC São José dos Campos *(em curso)*
 
 <br>
 
